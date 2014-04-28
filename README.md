@@ -4,8 +4,9 @@
 ## Program run_analysis.R 
 =========================
  Execute from the R console:
-* source("run_analysis.R")
-* runAnalysis()
+
+source("run_analysis.R")
+runAnalysis()
 
 This program does the following:
  
